@@ -30,11 +30,11 @@ This data analysis project report is comprised of four components:
 
 ### __Conclusion:__
 
-![](result1.jpg "Title")
+![](result1.JPG "Title")
 
 This project implements 6 different machine learning classification algorithms. Most of the algorithms here worked pretty well, considering there is a probability of 0.25 to correctly guess for each price range class. And as the organized table above shows, the softmax regression has outperformed other advanced algorithms such as neural network and random forest. 
 
-![](result2.jpg "Title")
+![](result2.JPG "Title")
 
 One can compare the two feature importance plots generated based on the softmax regression and support vector machine. It can be observed that the order of importance is quite similar. By comparing the two plots, one can observe that that the importance of n_cores (the number of core processors) is much higher in the softmax regression. Also, contrary to expectations, the RAM does not contribute much to the classification algorithms.  
 
