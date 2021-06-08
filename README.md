@@ -17,7 +17,7 @@ The dataset used for this project was obtained from [Kaggle](https://www.kaggle.
 
 ### __Directory:__
 - Notebook: In order to see the process of this project with explanations and interpretations, please see the jupyter notebook file, named "mobile_prices_notebook" in this repository. 
-- Code file: If you want to see code only, please see the the "mobile_prices_code" file. In order to use this file, another file "mobile_feat_eng" is needed for feature engineering. 
+- Code file: If you want to see code only, please see the the "mobile_prices_code" file. In order to use this file in the "code" folder, another file "mobile_feat_eng" is needed for feature engineering. 
 - Data: In order to reproduce this project using the same data, please download the "train.csv" file. 
 
 
